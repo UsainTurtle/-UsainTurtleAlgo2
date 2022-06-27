@@ -8,6 +8,9 @@
 |날짜|번호|문제|정현|유나|강호|성수|
 |---|---|---|---|---|---|---|
 |0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)||🎱||🎨
+|0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)||🎱||🎨
+|0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)||🎱||🎨
+|0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)||🎱||🎨
 |0620|[bj1475](https://www.acmicpc.net/problem/1475)|방 번호||🃏||🎎
 |0620|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값||🏁||😍
 |0613|[bj15683](https://www.acmicpc.net/problem/15683)|감시||🔥|🍗|
