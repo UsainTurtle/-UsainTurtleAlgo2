@@ -10,8 +10,8 @@
 |0627|[bj1938](https://www.acmicpc.net/problem/1938)|통나무 옮기기||||
 |0627|[bj1051](https://www.acmicpc.net/problem/1051)|숫자 정사각형||||
 |0627|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 ||👻||
-|0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)||🎱|🍗|
-|0620|[bj1475](https://www.acmicpc.net/problem/1475)|방 번호||🃏|🍗|🎎
+|0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)|🍏|🎱|🍗|
+|0620|[bj1475](https://www.acmicpc.net/problem/1475)|방 번호|🍊|🃏|🍗|🎎
 |0620|[bj2504](https://www.acmicpc.net/problem/2504)|괄호의 값||🏁|🍗|😍
 |0613|[bj15683](https://www.acmicpc.net/problem/15683)|감시||🔥|🍗|
 |0613|[bj1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|🥦|🍅|🍗|🔑
