@@ -7,7 +7,7 @@
 #### Problem List
 |날짜|번호|문제|정현|유나|강호|성수|
 |---|---|---|---|---|---|---|
-|0630|[bj14719](https://www.acmicpc.net/problem/14719)|빗물||||
+|0630|[bj14719](https://www.acmicpc.net/problem/14719)|빗물||🍀||
 |0627|[bj1938](https://www.acmicpc.net/problem/1938)|통나무 옮기기||||
 |0627|[bj1051](https://www.acmicpc.net/problem/1051)|숫자 정사각형|🫐|⚡️||
 |0627|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 |🍍|👻||
