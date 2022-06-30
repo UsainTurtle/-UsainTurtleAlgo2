@@ -8,7 +8,7 @@
 |날짜|번호|문제|정현|유나|강호|성수|
 |---|---|---|---|---|---|---|
 |0627|[bj1938](https://www.acmicpc.net/problem/1938)|통나무 옮기기||||
-|0627|[bj1051](https://www.acmicpc.net/problem/1051)|숫자 정사각형||||
+|0627|[bj1051](https://www.acmicpc.net/problem/1051)|숫자 정사각형||⚡️||
 |0627|[bj3986](https://www.acmicpc.net/problem/3986)|좋은 단어 ||👻||
 |0620|[bj12100](https://www.acmicpc.net/problem/12100)|2048 (Easy)|🍏|🎱|🍗|
 |0620|[bj1475](https://www.acmicpc.net/problem/1475)|방 번호|🍊|🃏|🍗|🎎
