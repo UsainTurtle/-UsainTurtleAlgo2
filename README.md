@@ -7,6 +7,9 @@
 #### Problem List
 |날짜|번호|문제|정현|유나|강호|성수|
 |---|---|---|---|---|---|---|
+|0705|[bj20056](https://www.acmicpc.net/problem/20056)|마법사상어와파이어볼|||||
+|0705|[bj17609](https://www.acmicpc.net/problem/17609)|회문|||||
+|0705|[bj10800](https://www.acmicpc.net/problem/10800)|컬러볼|||||
 |0630|[bj14719](https://www.acmicpc.net/problem/14719)|빗물||🍀||
 |0627|[bj1938](https://www.acmicpc.net/problem/1938)|통나무 옮기기||♟||
 |0627|[bj1051](https://www.acmicpc.net/problem/1051)|숫자 정사각형|🫐|⚡️||
@@ -17,3 +20,5 @@
 |0613|[bj15683](https://www.acmicpc.net/problem/15683)|감시||🔥|🍗|
 |0613|[bj1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|🥦|🍅|🍗|🔑|
 |0613|[bj17952](https://www.acmicpc.net/problem/17952)|과제는 끝나지 않아!|🍇|🍉|🍗|🎈|
+
+
