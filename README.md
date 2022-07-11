@@ -8,7 +8,7 @@
 |날짜|번호|문제|정현|유나|강호|성수|
 |---|---|---|---|---|---|---|
 |0707|[bj8911](https://www.acmicpc.net/problem/8911)|거북이||🐢|||
-|0705|[bj20056](https://www.acmicpc.net/problem/20056)|마법사상어와파이어볼|||||
+|0705|[bj10799](https://www.acmicpc.net/problem/10799)|쇠막대기|||||
 |0705|[bj17609](https://www.acmicpc.net/problem/17609)|회문|||||
 |0705|[bj10800](https://www.acmicpc.net/problem/10800)|컬러볼|||||
 |0630|[bj14719](https://www.acmicpc.net/problem/14719)|빗물||🍀||
