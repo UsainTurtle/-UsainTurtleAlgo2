@@ -21,5 +21,3 @@
 |0613|[bj15683](https://www.acmicpc.net/problem/15683)|감시||🔥|🍗|
 |0613|[bj1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|🥦|🍅|🍗|🔑|
 |0613|[bj17952](https://www.acmicpc.net/problem/17952)|과제는 끝나지 않아!|🍇|🍉|🍗|🎈|
-
-
