@@ -6,7 +6,7 @@
  ```
 #### Problem List
 |날짜|번호|문제|정현|유나|강호|성수|
-|---|---|---|---|---|---|---|bj5430
+|---|---|---|---|---|---|---|
 |0719|[bj5430](https://www.acmicpc.net/problem/5430)|AC|||||
 |0719|[bj1269](https://www.acmicpc.net/problem/1269)|대칭 차집합|||||
 |0719|[bj1091](https://www.acmicpc.net/problem/1091)|카드 섞기|||||
