@@ -7,6 +7,9 @@
 #### Problem List
 |날짜|번호|문제|정현|유나|강호|성수|
 |---|---|---|---|---|---|---|
+|0719|[bj5430](https://www.acmicpc.net/problem/5430)|AC|||||
+|0719|[bj1269](https://www.acmicpc.net/problem/1269)|대칭 차집합|||||
+|0719|[bj1091](https://www.acmicpc.net/problem/1091)|카드 섞기|||||
 |0707|[bj8911](https://www.acmicpc.net/problem/8911)|거북이|🥒|🐢|||
 |0705|[bj10799](https://www.acmicpc.net/problem/10799)|쇠막대기||👑|||
 |0705|[bj17609](https://www.acmicpc.net/problem/17609)|회문|🥭|🚧|||
