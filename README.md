@@ -10,7 +10,7 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
-| 0719 | [bj5212](https://www.acmicpc.net/problem/5212)   | 지구 온난화          |      | 🌏    |      |      |
+| 0719 | [bj5212](https://www.acmicpc.net/problem/5212)   | 지구 온난화          | 🍖     | 🌏    |      |      |
 | 0718 | [bj5430](https://www.acmicpc.net/problem/5430)   | AC                |      |      |      |      |
 | 0718 | [bj1269](https://www.acmicpc.net/problem/1269)   | 대칭 차집합          |      |      |      |      |
 | 0718 | [bj1091](https://www.acmicpc.net/problem/1091)   | 카드 섞기            |      |      |      |      |
