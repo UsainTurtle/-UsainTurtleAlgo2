@@ -10,10 +10,13 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
+| 0725 | [bj1756](https://www.acmicpc.net/problem/1756)   | 피자 굽기       |      |    |      |      |
+| 0725 | [bj1966](https://www.acmicpc.net/problem/1966)   | 프린터 큐          |      |     |      |      |
+| 0725 | [bj1106](https://www.acmicpc.net/problem/1106)   | 호텔          |      |    |      |      |
 | 0719 | [bj5212](https://www.acmicpc.net/problem/5212)   | 지구 온난화          | 🍖     | 🌏    |      |      |
-| 0718 | [bj5430](https://www.acmicpc.net/problem/5430)   | AC                |      |      |      |      |
-| 0718 | [bj1269](https://www.acmicpc.net/problem/1269)   | 대칭 차집합          |      |      |      |      |
-| 0718 | [bj1091](https://www.acmicpc.net/problem/1091)   | 카드 섞기            |      |      |      |      |
+| 0718 | [bj5430](https://www.acmicpc.net/problem/5430)   | AC                |      |   👽   |      |      |
+| 0718 | [bj1269](https://www.acmicpc.net/problem/1269)   | 대칭 차집합          |      |   💣   |      |      |
+| 0718 | [bj1091](https://www.acmicpc.net/problem/1091)   | 카드 섞기            |      |   🐬   |      |      |
 | 0707 | [bj8911](https://www.acmicpc.net/problem/8911)   | 거북이              | 🥒   | 🐢   |      |      |
 | 0705 | [bj10799](https://www.acmicpc.net/problem/10799) | 쇠막대기            |      | 👑   |      |      |
 | 0705 | [bj17609](https://www.acmicpc.net/problem/17609) | 회문               | 🥭   | 🚧   |      |      |
