@@ -13,7 +13,7 @@
 | 0726 | [bj3967](https://www.acmicpc.net/problem/3967)   | 매직 스타       |      |    |      |      |
 | 0725 | [bj1756](https://www.acmicpc.net/problem/1756)   | 피자 굽기       |      | 🍕   |      |      |
 | 0725 | [bj1966](https://www.acmicpc.net/problem/1966)   | 프린터 큐          |      |   🪩  |      |      |
-| 0725 | [bj1106](https://www.acmicpc.net/problem/1106)   | 호텔          |      |    |      |      |
+| 0725 | [bj1106](https://www.acmicpc.net/problem/1106)   | 호텔          |      |    |   🏨   |      |
 | 0719 | [bj5212](https://www.acmicpc.net/problem/5212)   | 지구 온난화          | 🍖     | 🌏    |      |      |
 | 0718 | [bj5430](https://www.acmicpc.net/problem/5430)   | AC                |      |   👽   |      |      |
 | 0718 | [bj1269](https://www.acmicpc.net/problem/1269)   | 대칭 차집합          |      |   💣   |      |      |
