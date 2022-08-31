@@ -13,7 +13,7 @@
 | 0826 | [bj18405](https://www.acmicpc.net/problem/18405)   | 갱쟁적 전염      |      |    |      |      |
 | 0826 | [bj1388](https://www.acmicpc.net/problem/1388)   | 바닥장식      |      |    |      |      |
 | 0826 | [bj2638](https://www.acmicpc.net/problem/2638)   | 치즈      |      |    |      |      |
-| 0825 | sw연습문제  | 낚시터 자리잡기       |      |    |      |      |
+| 0825 | sw연습문제  | 낚시터 자리잡기       |      |  🐟  |      |      |
 | 0726 | [bj3967](https://www.acmicpc.net/problem/3967)   | 매직 스타       |      |    |      |      |
 | 0725 | [bj1756](https://www.acmicpc.net/problem/1756)   | 피자 굽기       |      | 🍕   |      |      |
 | 0725 | [bj1966](https://www.acmicpc.net/problem/1966)   | 프린터 큐          |      |   🪩  |      |      |
