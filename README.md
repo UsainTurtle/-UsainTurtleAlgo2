@@ -13,7 +13,7 @@
 | 0906 | [bj2687](https://www.acmicpc.net/problem/2687) |팩스받기|  |  |  |  |
 | 0906 | [bj2002](https://www.acmicpc.net/problem/2002) |추월|  |  |  |  |
 | 0906 | [bj2667](https://www.acmicpc.net/problem/2667)   | 단지번호붙이기 | | | |  |
-| 0906 | [bj20207](https://www.acmicpc.net/problem/20207)   | 달력      |      |    |      |      |
+| 0906 | [bj20207](https://www.acmicpc.net/problem/20207)   | 달력      |      | 📅   |      |      |
 | 0826 | [bj18405](https://www.acmicpc.net/problem/18405)   | 경쟁적 전염      |      |  👾  |      |      |
 | 0826 | [bj1388](https://www.acmicpc.net/problem/1388)   | 바닥장식      |      |  🌈  |      |      |
 | 0826 | [bj2638](https://www.acmicpc.net/problem/2638)   | 치즈      |      |    |      |      |
