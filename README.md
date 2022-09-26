@@ -10,6 +10,9 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
+| 0927 | [bj18809](https://www.acmicpc.net/problem/18809) |Gaaaaaaaaaarden|  |  |  |  |
+| 0927 | [bj16922](https://www.acmicpc.net/problem/16922) |로마 숫자 만들기|  |  |  |  |
+| 0927 | [bj2206](https://www.acmicpc.net/problem/2206) |벽 부수고 이동하기|  |  |  |  |
 | 0906 | [bj2687](https://www.acmicpc.net/problem/2687) |팩스받기|  |  |  |  |
 | 0906 | [bj2002](https://www.acmicpc.net/problem/2002) |추월|  |  |  |  |
 | 0906 | [bj2667](https://www.acmicpc.net/problem/2667)   | 단지번호붙이기 | | | |  |
