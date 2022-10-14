@@ -10,6 +10,9 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
+| 1014 | [bj15684](https://www.acmicpc.net/problem/15684) |사다리 조작|  |  |  |  |
+| 1014 | [bj16918](https://www.acmicpc.net/problem/16918) |봄버맨|  |  |  |  |
+| 1014 | [bj15686](https://www.acmicpc.net/problem/15686) |치킨 배달|  |  |  |  |
 | 0927 | [bj18809](https://www.acmicpc.net/problem/18809) |Gaaaaaaaaaarden|  |  |  |  |
 | 0927 | [bj16922](https://www.acmicpc.net/problem/16922) |로마 숫자 만들기|  |  |  |  |
 | 0927 | [bj2206](https://www.acmicpc.net/problem/2206) |벽 부수고 이동하기|  |  |  |  |
