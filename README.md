@@ -10,6 +10,9 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
+| 1020 | [bj2573](https://www.acmicpc.net/problem/2573) |빙산|  |  |  |  |
+| 1020 | [bj1325](https://www.acmicpc.net/problem/1325) |효율적인해킹|  |  |  |  |
+| 1020 | [bj10026](https://www.acmicpc.net/problem/10026) |적록색약|  |  |  |  |
 | 1014 | [bj15684](https://www.acmicpc.net/problem/15684) |사다리 조작|  |  |  |  |
 | 1014 | [bj16918](https://www.acmicpc.net/problem/16918) |봄버맨|  |  |  |  |
 | 1014 | [bj15686](https://www.acmicpc.net/problem/15686) |치킨 배달|  |  |  |  |
