@@ -10,6 +10,9 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
+| 1114 | [bj2173] (https://www.acmicpc.net/problem/2173)|양파깡 만들기|  |  |  |   |
+| 1114 | [bj1412] (https://www.acmicpc.net/problem/1412)|나무꾼 이다솜|  |  |  |   |
+| 1114 | [bj1012] (https://www.acmicpc.net/problem/1012)|유기농 배추|  |  |  |   |
 | 1020 | [bj2573](https://www.acmicpc.net/problem/2573) |빙산|  |  |  |  |
 | 1020 | [bj1325](https://www.acmicpc.net/problem/1325) |효율적인해킹|  |  |  |  |
 | 1020 | [bj10026](https://www.acmicpc.net/problem/10026) |적록색약|  |  |  |  |
