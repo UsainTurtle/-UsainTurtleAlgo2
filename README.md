@@ -10,7 +10,7 @@
 
 | 날짜 | 번호                                             | 문제                  | 정현 | 유나 | 강호 | 성수 |
 | ---- | ------------------------------------------------ | ------------------| ---- | ---- | ---- | ---- |
-| 1114 | [bj2173](https://www.acmicpc.net/problem/1241)|머리 톡톡|  |  |  |   |
+| 1114 | [bj1241](https://www.acmicpc.net/problem/1241)|머리 톡톡|  |  |  |   |
 | 1114 | [bj1412](https://www.acmicpc.net/problem/1421)|나무꾼 이다솜|  |  |  | ❤  |
 | 1114 | [bj1012](https://www.acmicpc.net/problem/1012)|유기농 배추|  |  |  | 👀 |
 | 1020 | [bj2573](https://www.acmicpc.net/problem/2573) |빙산|  |  |  |  |
